@@ -4,7 +4,10 @@ public class MathService {
         Without using loops
      */
     public float power(int x, int n) {
-        //TODO
-        return 0.0f;
+        throw new UnsupportedOperationException("Needs implementation");
+    }
+
+    public boolean isPowerOfTwo(int x) {
+        throw new UnsupportedOperationException("Needs to be implemented");
     }
 }
