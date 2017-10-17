@@ -13,7 +13,7 @@ public class MathPowerOfTwoTest {
 
     @Test
     public void testOne(){
-        Assert.assertEquals(mathService.isPowerOfTwo(1), true;
+        Assert.assertEquals(mathService.isPowerOfTwo(1), true);
     }
 
     @Test
